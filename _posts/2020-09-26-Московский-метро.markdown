@@ -2,4 +2,4 @@
 
 я быил очень шокирован, когда сделал это за очень каротое время. Это позволяет мне понять, насколько просты, хорошо развиты и многие библиотеки в Python)) 
 
-Page rendered here -> arvpyrna.github.io/mos-metro
+Page rendered here -> https://arvpyrna.github.io/mos-metro
