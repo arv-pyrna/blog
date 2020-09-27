@@ -10,13 +10,14 @@ permalink: /about/
 
 #### **Links**:
 
-<ins>Professors</ins>
-
 * [Matt might](http://matt.might.net/) - CS Professor
-* [Karen Goel](https://goel.io/) - Programmer
 * [Jeff Huang](https://jeffhuang.com/) - CS Professor, Brown University
+* [Cal Newport](https://www.calnewport.com/) - CS Professor
+
+* [Karen Goel](https://goel.io/) - Programmer
 * [Susan Fowler](https://www.susanjfowler.com/home) - Devops
 * [Samking](https://samking.org/) - Stanford CS Grad
+
 
 #### **Reading list**:
 
@@ -30,14 +31,14 @@ permalink: /about/
 * [Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416)
 
 
-#### **Courses**
+#### **Courses:**
 
 <ins>Currently taking:</ins>
 
 * [DS in C++](https://www.coursera.org/specializations/data-structures-algorithms)
 * [Golang](https://www.coursera.org/specializations/google-golang)
 
-#### **Favourite posts**:
+#### **Favourite posts:**
 
 * [My productivity app for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)
 * [So you want to learn Physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
