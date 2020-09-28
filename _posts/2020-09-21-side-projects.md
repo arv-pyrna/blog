@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Первый Пост"
+title:  "Side projects"
 ---
 
 Привет!

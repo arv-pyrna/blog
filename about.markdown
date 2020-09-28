@@ -17,6 +17,7 @@ permalink: /about/
 * [Karen Goel](https://goel.io/) - Programmer
 * [Susan Fowler](https://www.susanjfowler.com/home) - Devops
 * [Samking](https://samking.org/) - Stanford CS Grad
+* [Julia Evans](https://jvns.ca/) - Programmer
 
 
 #### **Reading list**:
