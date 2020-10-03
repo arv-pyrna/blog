@@ -44,4 +44,5 @@ Github: github.com/arvpyrna
 
 * [My productivity app for the past 12 years has been a single .txt file](https://jeffhuang.com/productivity_text_file/)
 * [So you want to learn Physics](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+* [Take math notes using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
 
