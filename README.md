@@ -1,1 +1,3 @@
-This is my personal website: https://arvpyrna.com/about/
+Hi, I'm Arv
+
+Interested in Coding C++, Golang, Interested in Algorithms, Distributed systems and system programming.
