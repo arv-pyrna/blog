@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Я Арв, это мой блог о моей жизни, математике и программировании
+Это мой блог о моей жизни, математике и программировании
 
-* Почта : c.arv@yandex.ru
-* Github: github.com/arvpyrna
+* c.arv@yandex.ru
+* https://github.com/arv-pyrna
+
