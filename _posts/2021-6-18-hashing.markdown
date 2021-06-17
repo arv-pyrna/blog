@@ -1,0 +1,10 @@
+<h1> Hashing </h1>
+
+One of the super cool, in my opinion a magical, blazing fast data structure O(1) = Hashing. It is quite impossible to imagine a life without hashing structure. Hashing is achieved by a hash function mapping a key 
+with a value.
+
+Implementation stratergies
+* Chaining
+* Open addressing
+
+-- more details soon
