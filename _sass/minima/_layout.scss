@@ -198,16 +198,15 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
+  // font-size: $small-font-size;
+  @include relative-font-size(0.7);
   color: $grey-color;
 }
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.2);
 }
-
-
 
 /**
  * Posts
